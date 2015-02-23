@@ -1,0 +1,19 @@
+{
+  "browserify": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": "nofunc",
+  "mocha": true,
+  "newcap": true,
+  "noarg": true,
+  "nonbsp": true,
+  "nonew": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "white": true
+}

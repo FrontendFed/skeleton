@@ -1,0 +1,22 @@
+{
+  "name": "base-del-fuego",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "Carlos Corvaia <carlos@cloud.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.13",
+    "angular": "~1.3.13",
+    "bootstrap-sass": "~3.3.3"
+  }
+}
